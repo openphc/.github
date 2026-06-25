@@ -41,7 +41,7 @@ OpenPHC is modular. Countries can adopt one, two, or all three building blocks b
 
 The CCE ensures no patient, task, or handoff falls through the cracks. It automates referrals, follow-ups, and escalations using FHIR-native workflows — coordinating care journeys across community health workers, facilities, and program managers.
 
-![CCE Architecture — Fully Distributed, Beckn-Style](./profile/assets/cce-architecture.png)
+![CCE Architecture — Fully Distributed, Beckn-Style](./assets/cce-architecture.png)
 
 The CCE uses a fully distributed, Beckn-style architecture: each health system runs its own **Edge Coordinator** that can discover, send, receive, and acknowledge coordination messages directly peer-to-peer over an **Open Coordination Protocol Network** — no central gateway or routing authority. Observability is an optional passive subscriber, never a mediator.
 
