@@ -134,6 +134,16 @@ Active pilots and deployments: **India** · **Bangladesh** · **Kenya** · **Rwa
 
 ---
 
+## Documentation
+
+Full technical documentation is available at **[openphc.gitbook.io/openphc](https://openphc.gitbook.io/openphc)**, covering:
+
+- [Overview & Architecture](https://openphc.gitbook.io/openphc/introduction/overview) — how the CCE orchestrates cross-system care pathways using FHIR `PlanDefinition` + CQL
+- API references, integration guides, and deployment patterns for online (microservice) and offline (Android embedded) modes
+- Clinical workflow configuration, event-driven orchestration, and inter-system handoff protocols
+
+---
+
 ## Get Involved
 
 OpenPHC is open infrastructure for the global digital health community.
